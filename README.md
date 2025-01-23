@@ -8,3 +8,7 @@ Data types in C:
 - float(4 bytes)   
 - double(8 bytes)   
 - char(1 byte)   
+Kewords
+- int, short, long, signed, unsigned, float, double, char
+- if, else, switch, do
+Variables
