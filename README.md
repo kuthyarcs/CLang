@@ -10,6 +10,6 @@ Data types in C:
 - char(1 byte)   
 Keywords
 - int, short, long, signed, unsigned, float, double, char
-- if, else, switch, do
+- if, else, switch, do   
 Variables   
 Printing format options    - %d to print a numerical value   
