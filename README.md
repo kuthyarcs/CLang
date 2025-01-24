@@ -13,4 +13,4 @@ Keywords
 - if, else, switch, do   
 Variables   
 Printing format options   
-%d to print a numerical value   
+- %d to print a numerical value   
