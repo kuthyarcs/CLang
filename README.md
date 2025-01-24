@@ -14,3 +14,7 @@ Keywords
 Variables   
 Printing format options   
 - %d to print a numerical value   
+Type conversion in CS
+- Implicit conversion (automatically)
+- Explicit conversion (manually)
+- 
