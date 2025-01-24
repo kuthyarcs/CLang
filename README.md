@@ -18,3 +18,9 @@ Type conversion in CS
 - Implicit conversion (automatically)
 - Explicit conversion (manually)
 - 
+Assignments
+1. Write a C program to find the factorial of a number  (eg fact 5 = 120). Take user input
+2. Write a C program to find the Fibonacci series of N numbers (if N=0, the series will 0 1 1 2 3 5 8 13 21 34 )
+3. Write a C program to check whether the number is odd or even.
+4. Write a C program to check whether the character is vowel or not.
+5. Write a C program to print the factors of a positive integer
