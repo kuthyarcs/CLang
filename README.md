@@ -18,6 +18,11 @@ Type conversion in CS
 - Implicit conversion (automatically)
 - Explicit conversion (manually)
 
+#include <string.h>   
+#include <strcpy.h>    
+scanf() - for input of a single word    
+fgets() - for input of multiple words    
+
 Special Characters   
 The sequence \' inserts a single quote in  string      
 The sequence \" inserts a double quote in  string     
