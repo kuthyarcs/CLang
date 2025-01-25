@@ -17,7 +17,16 @@ Printing format options
 Type conversion in CS
 - Implicit conversion (automatically)
 - Explicit conversion (manually)
-- 
+
+Special Characters   
+The sequence \' inserts a single quote in  string   
+The sequence \" inserts a double quote in  string   
+The sequence \\ inserts a backslash in  string    
+The sequence \o inserts a null character in  string    
+
+
+
+
 Assignments
 1. Write a C program to find the factorial of a number  (eg fact 5 = 120). Take user input
 2. Write a C program to find the Fibonacci series of N numbers (if N=0, the series will 0 1 1 2 3 5 8 13 21 34 )
